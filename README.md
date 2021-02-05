@@ -1,2 +1,2 @@
 # my_projects
-some examples from Yandex Practicum course.
+This repository is mainly for projects i have done under Yandex.Practicum Data Science course.
